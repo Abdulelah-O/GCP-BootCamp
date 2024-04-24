@@ -1,2 +1,2 @@
 # GCP-BootCamp
-This repo for GCP bootcamp labs 
+This repositore for GCP bootcamp labs 
