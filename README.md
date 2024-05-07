@@ -1,2 +1,4 @@
 # GCP-BootCamp
-This repositore for GCP bootcamp labs 
+This repo for GCP bootcamp labs 
+
+Which was held in IMAMU from April 15 to April 18.
